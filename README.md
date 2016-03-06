@@ -90,7 +90,7 @@ you prefer to only receive updates for tagged releases, use
 
 ## Contributing
 
-See the [CONTRIBUTING.md][] document.
+See the [CONTRIBUTING.md]() document.
 
 ## Recipe Format
 
