@@ -1,0 +1,1 @@
+(pack :fetcher github :repo "10sr/pack-el")
